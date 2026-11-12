@@ -1,0 +1,4 @@
+.codex-home/
+results/
+results.jsonl
+__pycache__/
